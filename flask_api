@@ -1,1 +1,10 @@
-print("hello")
+Tasks to be done :
+1- Create GET and POST API's 
+--> Check file flask_apis.py
+
+2- Handle Json request and return appropriate response
+--> Check file response_handling.py
+
+3- Basic CRUD operations in-memory or with mock data
+--> Check file crud.py
+
